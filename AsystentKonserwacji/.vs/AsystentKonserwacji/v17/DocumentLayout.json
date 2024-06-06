@@ -1,0 +1,471 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SEBA\\Desktop\\AsystentKonserwacji_06-06\\AsystentKonserwacji\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B9B2E09C-A259-40EF-84D4-295F4935A6B7}|AsystentKonserwacji.csproj|c:\\users\\seba\\desktop\\asystentkonserwacji_06-06\\asystentkonserwacji\\pages\\machines\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9B2E09C-A259-40EF-84D4-295F4935A6B7}|AsystentKonserwacji.csproj|solutionrelative:pages\\machines\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9B2E09C-A259-40EF-84D4-295F4935A6B7}|AsystentKonserwacji.csproj|c:\\users\\seba\\desktop\\asystentkonserwacji_06-06\\asystentkonserwacji\\pages\\lubricationpoints\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9B2E09C-A259-40EF-84D4-295F4935A6B7}|AsystentKonserwacji.csproj|solutionrelative:pages\\lubricationpoints\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9B2E09C-A259-40EF-84D4-295F4935A6B7}|AsystentKonserwacji.csproj|c:\\users\\seba\\desktop\\asystentkonserwacji_06-06\\asystentkonserwacji\\models\\lubricationpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9B2E09C-A259-40EF-84D4-295F4935A6B7}|AsystentKonserwacji.csproj|solutionrelative:models\\lubricationpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9B2E09C-A259-40EF-84D4-295F4935A6B7}|AsystentKonserwacji.csproj|c:\\users\\seba\\desktop\\asystentkonserwacji_06-06\\asystentkonserwacji\\models\\machine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9B2E09C-A259-40EF-84D4-295F4935A6B7}|AsystentKonserwacji.csproj|solutionrelative:models\\machine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9B2E09C-A259-40EF-84D4-295F4935A6B7}|AsystentKonserwacji.csproj|c:\\users\\seba\\desktop\\asystentkonserwacji_06-06\\asystentkonserwacji\\models\\maintenanceschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9B2E09C-A259-40EF-84D4-295F4935A6B7}|AsystentKonserwacji.csproj|solutionrelative:models\\maintenanceschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9B2E09C-A259-40EF-84D4-295F4935A6B7}|AsystentKonserwacji.csproj|c:\\users\\seba\\desktop\\asystentkonserwacji_06-06\\asystentkonserwacji\\pages\\machines\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B9B2E09C-A259-40EF-84D4-295F4935A6B7}|AsystentKonserwacji.csproj|solutionrelative:pages\\machines\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9B2E09C-A259-40EF-84D4-295F4935A6B7}|AsystentKonserwacji.csproj|c:\\users\\seba\\desktop\\asystentkonserwacji_06-06\\asystentkonserwacji\\pages\\machines\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9B2E09C-A259-40EF-84D4-295F4935A6B7}|AsystentKonserwacji.csproj|solutionrelative:pages\\machines\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9B2E09C-A259-40EF-84D4-295F4935A6B7}|AsystentKonserwacji.csproj|c:\\users\\seba\\desktop\\asystentkonserwacji_06-06\\asystentkonserwacji\\pages\\lubricationpoints\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9B2E09C-A259-40EF-84D4-295F4935A6B7}|AsystentKonserwacji.csproj|solutionrelative:pages\\lubricationpoints\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9B2E09C-A259-40EF-84D4-295F4935A6B7}|AsystentKonserwacji.csproj|c:\\users\\seba\\desktop\\asystentkonserwacji_06-06\\asystentkonserwacji\\pages\\machines\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B9B2E09C-A259-40EF-84D4-295F4935A6B7}|AsystentKonserwacji.csproj|solutionrelative:pages\\machines\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9B2E09C-A259-40EF-84D4-295F4935A6B7}|AsystentKonserwacji.csproj|c:\\users\\seba\\desktop\\asystentkonserwacji_06-06\\asystentkonserwacji\\pages\\lubricationpoints\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B9B2E09C-A259-40EF-84D4-295F4935A6B7}|AsystentKonserwacji.csproj|solutionrelative:pages\\lubricationpoints\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9B2E09C-A259-40EF-84D4-295F4935A6B7}|AsystentKonserwacji.csproj|c:\\users\\seba\\desktop\\asystentkonserwacji_06-06\\asystentkonserwacji\\pages\\lubricationpoints\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B9B2E09C-A259-40EF-84D4-295F4935A6B7}|AsystentKonserwacji.csproj|solutionrelative:pages\\lubricationpoints\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9B2E09C-A259-40EF-84D4-295F4935A6B7}|AsystentKonserwacji.csproj|c:\\users\\seba\\desktop\\asystentkonserwacji_06-06\\asystentkonserwacji\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B9B2E09C-A259-40EF-84D4-295F4935A6B7}|AsystentKonserwacji.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9B2E09C-A259-40EF-84D4-295F4935A6B7}|AsystentKonserwacji.csproj|c:\\users\\seba\\desktop\\asystentkonserwacji_06-06\\asystentkonserwacji\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9B2E09C-A259-40EF-84D4-295F4935A6B7}|AsystentKonserwacji.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9B2E09C-A259-40EF-84D4-295F4935A6B7}|AsystentKonserwacji.csproj|c:\\users\\seba\\desktop\\asystentkonserwacji_06-06\\asystentkonserwacji\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9B2E09C-A259-40EF-84D4-295F4935A6B7}|AsystentKonserwacji.csproj|solutionrelative:migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9B2E09C-A259-40EF-84D4-295F4935A6B7}|AsystentKonserwacji.csproj|c:\\users\\seba\\desktop\\asystentkonserwacji_06-06\\asystentkonserwacji\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B9B2E09C-A259-40EF-84D4-295F4935A6B7}|AsystentKonserwacji.csproj|solutionrelative:pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9B2E09C-A259-40EF-84D4-295F4935A6B7}|AsystentKonserwacji.csproj|c:\\users\\seba\\desktop\\asystentkonserwacji_06-06\\asystentkonserwacji\\pages\\machines\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B9B2E09C-A259-40EF-84D4-295F4935A6B7}|AsystentKonserwacji.csproj|solutionrelative:pages\\machines\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9B2E09C-A259-40EF-84D4-295F4935A6B7}|AsystentKonserwacji.csproj|c:\\users\\seba\\desktop\\asystentkonserwacji_06-06\\asystentkonserwacji\\pages\\machines\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9B2E09C-A259-40EF-84D4-295F4935A6B7}|AsystentKonserwacji.csproj|solutionrelative:pages\\machines\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9B2E09C-A259-40EF-84D4-295F4935A6B7}|AsystentKonserwacji.csproj|c:\\users\\seba\\desktop\\asystentkonserwacji_06-06\\asystentkonserwacji\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9B2E09C-A259-40EF-84D4-295F4935A6B7}|AsystentKonserwacji.csproj|solutionrelative:pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9B2E09C-A259-40EF-84D4-295F4935A6B7}|AsystentKonserwacji.csproj|c:\\users\\seba\\desktop\\asystentkonserwacji_06-06\\asystentkonserwacji\\controllers\\machinescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9B2E09C-A259-40EF-84D4-295F4935A6B7}|AsystentKonserwacji.csproj|solutionrelative:controllers\\machinescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9B2E09C-A259-40EF-84D4-295F4935A6B7}|AsystentKonserwacji.csproj|c:\\users\\seba\\desktop\\asystentkonserwacji_06-06\\asystentkonserwacji\\controllers\\lubricationpointscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9B2E09C-A259-40EF-84D4-295F4935A6B7}|AsystentKonserwacji.csproj|solutionrelative:controllers\\lubricationpointscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9B2E09C-A259-40EF-84D4-295F4935A6B7}|AsystentKonserwacji.csproj|c:\\users\\seba\\desktop\\asystentkonserwacji_06-06\\asystentkonserwacji\\pages\\machines\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B9B2E09C-A259-40EF-84D4-295F4935A6B7}|AsystentKonserwacji.csproj|solutionrelative:pages\\machines\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9B2E09C-A259-40EF-84D4-295F4935A6B7}|AsystentKonserwacji.csproj|c:\\users\\seba\\desktop\\asystentkonserwacji_06-06\\asystentkonserwacji\\pages\\machines\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9B2E09C-A259-40EF-84D4-295F4935A6B7}|AsystentKonserwacji.csproj|solutionrelative:pages\\machines\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9B2E09C-A259-40EF-84D4-295F4935A6B7}|AsystentKonserwacji.csproj|c:\\users\\seba\\desktop\\asystentkonserwacji_06-06\\asystentkonserwacji\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9B2E09C-A259-40EF-84D4-295F4935A6B7}|AsystentKonserwacji.csproj|solutionrelative:startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9B2E09C-A259-40EF-84D4-295F4935A6B7}|AsystentKonserwacji.csproj|c:\\users\\seba\\desktop\\asystentkonserwacji_06-06\\asystentkonserwacji\\controllers\\maintenanceschedulescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9B2E09C-A259-40EF-84D4-295F4935A6B7}|AsystentKonserwacji.csproj|solutionrelative:controllers\\maintenanceschedulescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9B2E09C-A259-40EF-84D4-295F4935A6B7}|AsystentKonserwacji.csproj|c:\\users\\seba\\desktop\\asystentkonserwacji_06-06\\asystentkonserwacji\\asystentkonserwacji.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B9B2E09C-A259-40EF-84D4-295F4935A6B7}|AsystentKonserwacji.csproj|solutionrelative:asystentkonserwacji.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9B2E09C-A259-40EF-84D4-295F4935A6B7}|AsystentKonserwacji.csproj|c:\\users\\seba\\desktop\\asystentkonserwacji_06-06\\asystentkonserwacji\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9B2E09C-A259-40EF-84D4-295F4935A6B7}|AsystentKonserwacji.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9B2E09C-A259-40EF-84D4-295F4935A6B7}|AsystentKonserwacji.csproj|c:\\users\\seba\\desktop\\asystentkonserwacji_06-06\\asystentkonserwacji\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B9B2E09C-A259-40EF-84D4-295F4935A6B7}|AsystentKonserwacji.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9B2E09C-A259-40EF-84D4-295F4935A6B7}|AsystentKonserwacji.csproj|c:\\users\\seba\\desktop\\asystentkonserwacji_06-06\\asystentkonserwacji\\migrations\\20240604201612_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9B2E09C-A259-40EF-84D4-295F4935A6B7}|AsystentKonserwacji.csproj|solutionrelative:migrations\\20240604201612_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\SEBA\\Desktop\\AsystentKonserwacji_06-06\\AsystentKonserwacji\\Pages\\LubricationPoints\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\LubricationPoints\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\SEBA\\Desktop\\AsystentKonserwacji_06-06\\AsystentKonserwacji\\Pages\\LubricationPoints\\Edit.cshtml.cs",
+              "RelativeToolTip": "Pages\\LubricationPoints\\Edit.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T15:29:39.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\SEBA\\Desktop\\AsystentKonserwacji_06-06\\AsystentKonserwacji\\Pages\\Machines\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Machines\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\SEBA\\Desktop\\AsystentKonserwacji_06-06\\AsystentKonserwacji\\Pages\\Machines\\Details.cshtml.cs",
+              "RelativeToolTip": "Pages\\Machines\\Details.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T14:54:59.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LubricationPoints.cs",
+              "DocumentMoniker": "C:\\Users\\SEBA\\Desktop\\AsystentKonserwacji_06-06\\AsystentKonserwacji\\Models\\LubricationPoints.cs",
+              "RelativeDocumentMoniker": "Models\\LubricationPoints.cs",
+              "ToolTip": "C:\\Users\\SEBA\\Desktop\\AsystentKonserwacji_06-06\\AsystentKonserwacji\\Models\\LubricationPoints.cs",
+              "RelativeToolTip": "Models\\LubricationPoints.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T20:02:28.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\SEBA\\Desktop\\AsystentKonserwacji_06-06\\AsystentKonserwacji\\Pages\\Machines\\Details.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Machines\\Details.cshtml",
+              "ToolTip": "C:\\Users\\SEBA\\Desktop\\AsystentKonserwacji_06-06\\AsystentKonserwacji\\Pages\\Machines\\Details.cshtml",
+              "RelativeToolTip": "Pages\\Machines\\Details.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAkwDkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-05T14:53:58.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\SEBA\\Desktop\\AsystentKonserwacji_06-06\\AsystentKonserwacji\\Pages\\LubricationPoints\\Create.cshtml",
+              "RelativeDocumentMoniker": "Pages\\LubricationPoints\\Create.cshtml",
+              "ToolTip": "C:\\Users\\SEBA\\Desktop\\AsystentKonserwacji_06-06\\AsystentKonserwacji\\Pages\\LubricationPoints\\Create.cshtml",
+              "RelativeToolTip": "Pages\\LubricationPoints\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-05T15:28:47.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\SEBA\\Desktop\\AsystentKonserwacji_06-06\\AsystentKonserwacji\\Pages\\LubricationPoints\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Pages\\LubricationPoints\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\SEBA\\Desktop\\AsystentKonserwacji_06-06\\AsystentKonserwacji\\Pages\\LubricationPoints\\Edit.cshtml",
+              "RelativeToolTip": "Pages\\LubricationPoints\\Edit.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-05T15:29:36.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MaintenanceSchedule.cs",
+              "DocumentMoniker": "C:\\Users\\SEBA\\Desktop\\AsystentKonserwacji_06-06\\AsystentKonserwacji\\Models\\MaintenanceSchedule.cs",
+              "RelativeDocumentMoniker": "Models\\MaintenanceSchedule.cs",
+              "ToolTip": "C:\\Users\\SEBA\\Desktop\\AsystentKonserwacji_06-06\\AsystentKonserwacji\\Models\\MaintenanceSchedule.cs",
+              "RelativeToolTip": "Models\\MaintenanceSchedule.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T20:03:02.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Machine.cs",
+              "DocumentMoniker": "C:\\Users\\SEBA\\Desktop\\AsystentKonserwacji_06-06\\AsystentKonserwacji\\Models\\Machine.cs",
+              "RelativeDocumentMoniker": "Models\\Machine.cs",
+              "ToolTip": "C:\\Users\\SEBA\\Desktop\\AsystentKonserwacji_06-06\\AsystentKonserwacji\\Models\\Machine.cs",
+              "RelativeToolTip": "Models\\Machine.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T20:01:46.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\SEBA\\Desktop\\AsystentKonserwacji_06-06\\AsystentKonserwacji\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\SEBA\\Desktop\\AsystentKonserwacji_06-06\\AsystentKonserwacji\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-04T20:04:01.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\SEBA\\Desktop\\AsystentKonserwacji_06-06\\AsystentKonserwacji\\Pages\\Machines\\Create.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Machines\\Create.cshtml",
+              "ToolTip": "C:\\Users\\SEBA\\Desktop\\AsystentKonserwacji_06-06\\AsystentKonserwacji\\Pages\\Machines\\Create.cshtml",
+              "RelativeToolTip": "Pages\\Machines\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-05T14:56:16.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\SEBA\\Desktop\\AsystentKonserwacji_06-06\\AsystentKonserwacji\\Pages\\Machines\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Machines\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\SEBA\\Desktop\\AsystentKonserwacji_06-06\\AsystentKonserwacji\\Pages\\Machines\\Create.cshtml.cs",
+              "RelativeToolTip": "Pages\\Machines\\Create.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwCIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T14:56:55.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\SEBA\\Desktop\\AsystentKonserwacji_06-06\\AsystentKonserwacji\\Pages\\LubricationPoints\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\LubricationPoints\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\SEBA\\Desktop\\AsystentKonserwacji_06-06\\AsystentKonserwacji\\Pages\\LubricationPoints\\Create.cshtml.cs",
+              "RelativeToolTip": "Pages\\LubricationPoints\\Create.cshtml.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAowCEAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T15:29:09.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\SEBA\\Desktop\\AsystentKonserwacji_06-06\\AsystentKonserwacji\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\SEBA\\Desktop\\AsystentKonserwacji_06-06\\AsystentKonserwacji\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T20:03:42.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\SEBA\\Desktop\\AsystentKonserwacji_06-06\\AsystentKonserwacji\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\SEBA\\Desktop\\AsystentKonserwacji_06-06\\AsystentKonserwacji\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T21:51:40.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\SEBA\\Desktop\\AsystentKonserwacji_06-06\\AsystentKonserwacji\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\SEBA\\Desktop\\AsystentKonserwacji_06-06\\AsystentKonserwacji\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-04T20:49:02.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\SEBA\\Desktop\\AsystentKonserwacji_06-06\\AsystentKonserwacji\\Pages\\Machines\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Machines\\Index.cshtml",
+              "ToolTip": "C:\\Users\\SEBA\\Desktop\\AsystentKonserwacji_06-06\\AsystentKonserwacji\\Pages\\Machines\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Machines\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-05T14:50:47.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\SEBA\\Desktop\\AsystentKonserwacji_06-06\\AsystentKonserwacji\\Pages\\Machines\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Machines\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\SEBA\\Desktop\\AsystentKonserwacji_06-06\\AsystentKonserwacji\\Pages\\Machines\\Index.cshtml.cs",
+              "RelativeToolTip": "Pages\\Machines\\Index.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T14:51:25.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\SEBA\\Desktop\\AsystentKonserwacji_06-06\\AsystentKonserwacji\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\SEBA\\Desktop\\AsystentKonserwacji_06-06\\AsystentKonserwacji\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "Pages\\Index.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T14:49:41.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MachinesController.cs",
+              "DocumentMoniker": "C:\\Users\\SEBA\\Desktop\\AsystentKonserwacji_06-06\\AsystentKonserwacji\\Controllers\\MachinesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MachinesController.cs",
+              "ToolTip": "C:\\Users\\SEBA\\Desktop\\AsystentKonserwacji_06-06\\AsystentKonserwacji\\Controllers\\MachinesController.cs",
+              "RelativeToolTip": "Controllers\\MachinesController.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAAAGIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T20:25:16.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LubricationPointsController.cs",
+              "DocumentMoniker": "C:\\Users\\SEBA\\Desktop\\AsystentKonserwacji_06-06\\AsystentKonserwacji\\Controllers\\LubricationPointsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LubricationPointsController.cs",
+              "ToolTip": "C:\\Users\\SEBA\\Desktop\\AsystentKonserwacji_06-06\\AsystentKonserwacji\\Controllers\\LubricationPointsController.cs",
+              "RelativeToolTip": "Controllers\\LubricationPointsController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAB4AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T20:26:38.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\SEBA\\Desktop\\AsystentKonserwacji_06-06\\AsystentKonserwacji\\Pages\\Machines\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Machines\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\SEBA\\Desktop\\AsystentKonserwacji_06-06\\AsystentKonserwacji\\Pages\\Machines\\Edit.cshtml",
+              "RelativeToolTip": "Pages\\Machines\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-05T15:06:11.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\SEBA\\Desktop\\AsystentKonserwacji_06-06\\AsystentKonserwacji\\Pages\\Machines\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Machines\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\SEBA\\Desktop\\AsystentKonserwacji_06-06\\AsystentKonserwacji\\Pages\\Machines\\Edit.cshtml.cs",
+              "RelativeToolTip": "Pages\\Machines\\Edit.cshtml.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowCsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T15:06:32.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "MaintenanceSchedulesController.cs",
+              "DocumentMoniker": "C:\\Users\\SEBA\\Desktop\\AsystentKonserwacji_06-06\\AsystentKonserwacji\\Controllers\\MaintenanceSchedulesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MaintenanceSchedulesController.cs",
+              "ToolTip": "C:\\Users\\SEBA\\Desktop\\AsystentKonserwacji_06-06\\AsystentKonserwacji\\Controllers\\MaintenanceSchedulesController.cs",
+              "RelativeToolTip": "Controllers\\MaintenanceSchedulesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T20:28:10Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\SEBA\\Desktop\\AsystentKonserwacji_06-06\\AsystentKonserwacji\\Startup.cs",
+              "RelativeDocumentMoniker": "Startup.cs",
+              "ToolTip": "C:\\Users\\SEBA\\Desktop\\AsystentKonserwacji_06-06\\AsystentKonserwacji\\Startup.cs",
+              "RelativeToolTip": "Startup.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAABIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T20:04:29.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AsystentKonserwacji.csproj",
+              "DocumentMoniker": "C:\\Users\\SEBA\\Desktop\\AsystentKonserwacji_06-06\\AsystentKonserwacji\\AsystentKonserwacji.csproj",
+              "RelativeDocumentMoniker": "AsystentKonserwacji.csproj",
+              "ToolTip": "C:\\Users\\SEBA\\Desktop\\AsystentKonserwacji_06-06\\AsystentKonserwacji\\AsystentKonserwacji.csproj",
+              "RelativeToolTip": "AsystentKonserwacji.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-04T20:03:21.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SEBA\\Desktop\\AsystentKonserwacji_06-06\\AsystentKonserwacji\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\SEBA\\Desktop\\AsystentKonserwacji_06-06\\AsystentKonserwacji\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T20:06:41.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\SEBA\\Desktop\\AsystentKonserwacji_06-06\\AsystentKonserwacji\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\SEBA\\Desktop\\AsystentKonserwacji_06-06\\AsystentKonserwacji\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-04T20:32:36.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "20240604201612_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\SEBA\\Desktop\\AsystentKonserwacji_06-06\\AsystentKonserwacji\\Migrations\\20240604201612_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240604201612_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\SEBA\\Desktop\\AsystentKonserwacji_06-06\\AsystentKonserwacji\\Migrations\\20240604201612_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20240604201612_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T20:16:13.175Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
